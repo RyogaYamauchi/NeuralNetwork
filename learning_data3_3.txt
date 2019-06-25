@@ -44,7 +44,7 @@
 ---furnace-- 2
 ---burst---- 2
 ---murk----- 2
----purple--- 2
+-refurnish-- 2
 ---curve---- 2
 ---turf----- 2
 ---purpose-- 2
@@ -54,7 +54,7 @@
 ---purgatory 2
 --spur------ 2
 ---surge---- 2
----curb----- 2
+---hurdle--- 2
 ---curd----- 2
 ---curl----- 2
 ---current-- 2
