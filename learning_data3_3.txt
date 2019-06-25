@@ -19,13 +19,13 @@
 ---hush----- 1
 ---much----- 1
 ---number--- 1
----public--- 1
+---lunge---- 1
 ---pulp----- 1
 ---fusty---- 1
 ---punish--- 1
 ---rubber--- 1
 ---run------ 1
----rumpus--- 1
+---mut------ 1
 ---juggle--- 1
 ---funky---- 1
 ---funnel--- 1
@@ -33,7 +33,6 @@
 ---summit--- 1
 --trudge---- 1
 ---vulture-- 1
-
 ---turtle--- 2
 ---cursor--- 2
 ---currency- 2
@@ -69,7 +68,6 @@
 ---purge---- 2
 ---bur------ 2
 ---cur------ 2
-
 -beauty----- 3
 -group------ 3
 --blue------ 3
