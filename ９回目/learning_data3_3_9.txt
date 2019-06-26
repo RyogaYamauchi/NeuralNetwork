@@ -20,7 +20,7 @@
 ---huff----- 1
 ---hungry--- 1
 ---hunter--- 1
----husband-- 1
+---cull----- 1
 ---punish--- 1
 ---luxury--- 1
 ---mug------ 1
@@ -61,7 +61,7 @@
 ---surgery-- 2
 ---curd----- 2
 ---lurk----- 2
----surge---- 2
+---furl----- 2
 ---curb----- 2
 ---current-- 2
 ---furry---- 2
@@ -96,7 +96,7 @@ enthusiasm-- 3
 --glue------ 3
 ---human---- 3
 ---humor---- 3
-conquer----- 3
+---mule----- 3
 ---music---- 3
 ---pupil---- 3
 --student--- 3
