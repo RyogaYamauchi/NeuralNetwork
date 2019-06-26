@@ -37,7 +37,7 @@
 ---turtle--- 2
 ---cursor--- 2
 ---nurse---- 2
--occur------ 2
+---burned--- 2
 ---purse---- 2
 ---hurry---- 2
 ---furthest- 2
@@ -47,7 +47,7 @@
 ---murk----- 2
 ---purple--- 2
 ---curve---- 2
----burlesque 2
+---turban--- 2
 ---turn----- 2
 ---fur------ 2
 ---curtain-- 2
